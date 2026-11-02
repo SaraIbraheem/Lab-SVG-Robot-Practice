@@ -1,0 +1,20 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="240" height="240" viewBox="0 0 12 12">
+  <title>Robot face</title>
+  <rect width="12" height="12" fill="white"/>
+  <g id="robot">
+    <path d="M6 1 L6 2" stroke="black" stroke-width="0.4"/>
+    <rect x="2" y="2" width="8" height="8" fill="black"/>
+    <g id="face" fill="white">
+      <rect x="3" y="4" width="2" height="2"/>
+      <rect x="7" y="4" width="2" height="2"/>
+<path d="M4 7 L6 8 L8 7"
+      fill="none"
+      stroke="white"
+      stroke-width="0.3"/>
+
+    </g>
+  </g>
+</svg>
+
